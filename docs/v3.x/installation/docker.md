@@ -1,6 +1,6 @@
 # Installing using Docker
 
-If you're already familiar with Docker, you are probably looking for our official Docker images over [Docker Hub](https://hub.docker.com/r/strapi/strapi).
+If you're already familiar with Docker, you are probably looking for our official Docker images over on [Docker Hub](https://hub.docker.com/r/strapi/strapi).
 
 [[toc]]
 
